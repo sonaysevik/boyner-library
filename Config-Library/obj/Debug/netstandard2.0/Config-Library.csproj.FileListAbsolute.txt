@@ -1,0 +1,8 @@
+/Users/sonay.sevik/Documents/Projects/internal/Config-Library/Config-Library/bin/Debug/netstandard2.0/Config-Library.deps.json
+/Users/sonay.sevik/Documents/Projects/internal/Config-Library/Config-Library/bin/Debug/netstandard2.0/Config-Library.dll
+/Users/sonay.sevik/Documents/Projects/internal/Config-Library/Config-Library/bin/Debug/netstandard2.0/Config-Library.pdb
+/Users/sonay.sevik/Documents/Projects/internal/Config-Library/Config-Library/obj/Debug/netstandard2.0/Config-Library.csproj.CoreCompileInputs.cache
+/Users/sonay.sevik/Documents/Projects/internal/Config-Library/Config-Library/obj/Debug/netstandard2.0/Config-Library.AssemblyInfoInputs.cache
+/Users/sonay.sevik/Documents/Projects/internal/Config-Library/Config-Library/obj/Debug/netstandard2.0/Config-Library.AssemblyInfo.cs
+/Users/sonay.sevik/Documents/Projects/internal/Config-Library/Config-Library/obj/Debug/netstandard2.0/Config-Library.dll
+/Users/sonay.sevik/Documents/Projects/internal/Config-Library/Config-Library/obj/Debug/netstandard2.0/Config-Library.pdb
